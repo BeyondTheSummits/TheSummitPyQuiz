@@ -60,6 +60,7 @@ Avoid losing all your lives
 Restart or quit at the end of the quiz
 
 Future Improvements
+Increased input validation/error handling
 Randomised question order
 Timer system
 High score leaderboard
