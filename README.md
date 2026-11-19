@@ -1,5 +1,5 @@
 # TheSummitPyQuiz
-A console-based Python coding quiz designed to test and develop programming knowledge through challenge, persistence and continuous improvement. The project features multiple difficulty levels, score tracking, lives, input validation, match-case statements, coding-related questions and more. Created as part of my software development journey...
+A console-based (UI added in version 2)Python coding quiz designed to test and develop programming knowledge through challenge, persistence and continuous improvement. The project features multiple difficulty levels, score tracking, lives, input validation, match-case statements, coding-related questions and more. Created as part of my software development journey...
 
 Features
 Easy, Medium and Hard difficulties
